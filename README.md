@@ -1,6 +1,6 @@
  
 
-# Git Basics: 1-Hour Learning Agenda
+# Git Basics: 1-Hour and 40 Minutes Learning Agenda
 
 ## Objective
 Learn the fundamentals of Git, including version control, local repositories, and working with remote repositories.
